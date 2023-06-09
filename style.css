@@ -12,6 +12,12 @@ body {
     overflow: hidden;
 }
 
+h1 {
+    border: 2px solid rgba(255, 255, 0, 0.683);
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
 .container {
     padding: 20px 20px;
     height: 450px;
